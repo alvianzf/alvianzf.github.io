@@ -8,6 +8,11 @@
     background: orange;
 }
 
+a {
+    text-decoration: none;
+    color: #000;
+}
+
 .profile-image {
     background-image:  url('../images/alvian.png');
     height: 100vh;
