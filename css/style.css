@@ -121,3 +121,15 @@ a, a:hover, a:active, a:visited {
     padding-right: 2em;
     background: white;
 }
+
+.skill {
+    padding: 1em;
+    /* font-weight: bold; */
+    color: white;
+}
+
+.skill i {
+    font-size: larger;
+    /* font-weight: bold; */
+    margin-left: 0.5em;
+}
